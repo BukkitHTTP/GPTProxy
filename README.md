@@ -7,3 +7,5 @@ An proxy to the ChatGPT
 > - MultiLayer-Routering
 > - Outbound-Request
 > - Commands
+
+Deprecated: We've have a dedicated demo plugin.
